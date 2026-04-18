@@ -1,12 +1,3 @@
-// ----------------------------------------------------------------------
-//                    INTEGRANTES DO GRUPO
-// CAROLINA DE JESUS MENEZES - 1230208153
-// EUTELINA CRISTINA RAMOS MACHADO - 1230115563
-// RUAN ROBERTO DA SILVA BASTOS -1230208430
-// SAMUEL VIANA DE OLIVEIRA - 1200100799
-// YASMIN CUNHA REZENDE - 1230114312
-// WESLEY ALEXANDRE SOUSA DE OLIVEIRA – 1230116876
-// -----------------------------------------------------------------------
 #include <WiFi.h>
 #include <PubSubClient.h>
 
