@@ -14,7 +14,7 @@ const char* topico_bpm = "monitor/cardiaco/bpm";
 const char* topico_ppg_sinal = "monitor/cardiaco/ppg_sinal";
 
 // ----------------------------------------------------------------------
-// 2. VARIÁVEIS DO SENSOR (SUA LÓGICA DE PULSO ESTÁVEL)
+// 2. VARIÁVEIS DO SENSOR 
 // ----------------------------------------------------------------------
 const int pulsePin = 34;    // Pino de Sinal do Pulse Sensor -> GPIO 34
 const int PinoLED = 2;     // LED nativo do ESP32 para indicar o pulso
